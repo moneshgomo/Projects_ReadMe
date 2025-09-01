@@ -42,7 +42,7 @@ A robust, cloud-native blog platform featuring secure administration, scalable a
 |-----------------|-----------------------------------|
 | Languages       | HTML,CSS, Javascript                       |
 | Hosting         | Firebase Hosting                  |
-| Domain          | [Here](https://dev16-blog.web.app) |
+| Domain          | [Here](https://blog-1fcl.onrender.com) |
 
 ---
 
@@ -52,10 +52,10 @@ A robust, cloud-native blog platform featuring secure administration, scalable a
   [![Firebase Frontend](https://img.shields.io/badge/Firebase-Frontend-FFCA28?style=for-the-badge&logo=firebase)](https://dev16-blog.web.app)
 
 - **Backend:**  
-  [![Render Backend](https://img.shields.io/badge/Render-Backend-46E3B7?style=for-the-badge&logo=render)](https://blog-1fcl.onrender.com/home)
+  [![Render Backend](https://img.shields.io/badge/Render-Backend-46E3B7?style=for-the-badge&logo=render)](https://blog-1fcl.onrender.com)
 
 - **User Access:**  
-  [UI](https://dev16-blog.web.app)
+  [UI](https://blog-1fcl.onrender.com/)
 
 ---
 
