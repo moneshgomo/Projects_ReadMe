@@ -1,6 +1,6 @@
 # Dev16 Blog Platform
 
-A robust, cloud-native blog platform featuring secure administration, scalable architecture, and modern development  techniques
+A robust, cloud-native blog platform featuring secure administration, monolithic architecture, and modern development  techniques
 
 ---
 
@@ -8,6 +8,7 @@ A robust, cloud-native blog platform featuring secure administration, scalable a
 
 **Dev16 Blog** is a full-featured content management system designed for professional blogging and seamless content delivery. The platform isfocused  on   <Strong>scaling</Strong>
 
+- ⚙️ Note: The backend server is hosted on Render’s free tier, which means it may enter an idle state after inactivity — so it can take a few seconds to spin up (cold start) when you first access it.
 ---
 
 ## System Architecture
@@ -33,7 +34,7 @@ A robust, cloud-native blog platform featuring secure administration, scalable a
 | Framework       | Spring Boot 3, Spring Security    |
 | Authentication  | JWT (JSON Web Tokens)             |
 | Database        | MySQL (Aiven Cloud)               |
-| API Design      | RESTful, Bean Validation          |
+| API Design      | RESTful                           |
 | Deployment      | Render Cloud                      |
 
 ### Frontend
